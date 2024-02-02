@@ -20,6 +20,7 @@ processors:
       fields:
         - mimecast.MsgId
         - mimecast.datetime
+        - mimecast.aCode
       target_field: "_id"
       ignore_missing: true
 

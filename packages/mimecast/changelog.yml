@@ -1,3 +1,8 @@
+- version: 1.22.2
+  changes:
+    - description: Add aCode fingerprint processor to avoid collisions.
+      type: bugfix
+      link: https://github.com/elastic/integrations/pull/111111
 - version: "1.22.1"
   changes:
     - description: Changed owners
